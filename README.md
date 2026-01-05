@@ -135,3 +135,5 @@ Understand them.
 
 And please…
 don’t be that person.
+
+This project is released under the MIT License.
