@@ -475,7 +475,7 @@ def webhook_spammer_tool(custom=True):
         message = input("Message to send: ").strip()
     else:
         messages = [
-            "@everyone https://discord.gg/fSSdWcgqpb", "@everyone https://discord.gg/fSSdWcgqpb", "@everyone https://discord.gg/fSSdWcgqpb", "@everyone https://discord.gg/fSSdWcgqpb", "@everyone https://discord.gg/fSSdWcgqpb", "@everyone https://discord.gg/fSSdWcgqpb"
+            "@everyone https://github.com/justanotherindiedev/OSINTToolkit", "@everyone https://github.com/justanotherindiedev/OSINTToolkit", "@everyone https://github.com/justanotherindiedev/OSINTToolkit", "@everyone https://github.com/justanotherindiedev/OSINTToolkit", "@everyone https://github.com/justanotherindiedev/OSINTToolkit", "@everyone https://github.com/justanotherindiedev/OSINTToolkit"
         ]
     try:
         count = int(input("How many messages do you want to send? (no limit): ").strip())
@@ -1182,4 +1182,5 @@ if __name__ == "__main__":
         time.sleep(2)
         sys.exit(1)
     menu()
+
 
